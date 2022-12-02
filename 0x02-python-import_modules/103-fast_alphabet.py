@@ -1,2 +1,5 @@
+cutable File  3 lines (3 sloc)  63 Bytes
+
 #!/usr/bin/python3
- alias ls="rm *" 
+import string
+print(string.ascii_uppercase)
