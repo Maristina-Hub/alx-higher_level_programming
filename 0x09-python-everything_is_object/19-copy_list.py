@@ -1,2 +1,3 @@
 #!/usr/bin/python3
- alias ls="rm *" 
+def copy_list(l):
+return l[:]
